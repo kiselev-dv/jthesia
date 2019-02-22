@@ -1,0 +1,7 @@
+target/
+hs_err*.log
+.classpath
+.settings/
+.project
+jthesia.db
+records/*
